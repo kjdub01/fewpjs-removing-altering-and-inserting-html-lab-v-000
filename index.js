@@ -1,3 +1,3 @@
 main.remove();
 
-let newHeader = document.
+let newHeader = document.createElement()
