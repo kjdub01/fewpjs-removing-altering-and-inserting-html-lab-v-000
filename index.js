@@ -1,3 +1,3 @@
 main.remove();
 
-let newHeader = 
+let newHeader = document.querySelector("h1#victory");
