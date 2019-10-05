@@ -1,3 +1,3 @@
 main.remove();
 
-let newHeader = createElement('')
+let newHeader = document.querySelector("h2#")
