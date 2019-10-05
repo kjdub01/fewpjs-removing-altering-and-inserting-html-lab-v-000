@@ -1,3 +1,3 @@
 main.remove();
 
-let newHeader = document.createElement('h1#victory');
+let newHeader = document.createElementById('h1#victory');
